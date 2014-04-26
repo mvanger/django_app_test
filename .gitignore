@@ -1,6 +1,6 @@
 *.pyc
 
-msia/settings.py
+django_app_test/msia/msia/settings.py
 
 *.json
 
