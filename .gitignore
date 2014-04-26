@@ -1,0 +1,7 @@
+*.pyc
+
+msia/settings.py
+
+*.json
+
+media/temp
